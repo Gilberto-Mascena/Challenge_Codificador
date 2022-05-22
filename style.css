@@ -1,0 +1,36 @@
+
+body {
+   font-family: 'Montserrat', sans-serif;
+}
+
+.logo {
+   /* Vector */
+
+margin: 1% 0 0 3%;
+width: 35px;
+
+}
+
+/* Rodapé */
+footer {
+   position: static;
+   margin-top: 8%;
+   height: 6rem;
+   text-align: center;
+   line-height: 1em;
+   padding-bottom: 2px; 
+}
+
+.link-linkedin {
+width: 40px;
+margin: 15px 15px 7px 0;
+}
+
+.link {   
+   width: 35px;
+   margin: 15px 15px 10px 0;
+}
+
+    
+
+
