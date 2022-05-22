@@ -5,20 +5,14 @@ body {
 
 .logo {
    /* Vector */
-
 margin: 1% 0 0 3%;
 width: 35px;
-
 }
 
-/* Rodapé */
 footer {
-   position: static;
-   margin-top: 8%;
-   height: 6rem;
    text-align: center;
-   line-height: 1em;
-   padding-bottom: 2px; 
+   margin:25% 0 0; 
+
 }
 
 .link-linkedin {
